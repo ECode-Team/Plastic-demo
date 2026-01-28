@@ -6,7 +6,11 @@
 
   <br />
 
-  <img src="./photo_5963047966190799982_y.jpg" alt="Dashboard Preview" width="100%" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0,0,0,0.1);" />
+  <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
+    <img src="image1.jpg" alt="Preview 1" width="35%" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0,0,0,0.1); min-width: 250px; max-width: 35%;" />
+    <img src="image2.jpg" alt="Preview 2" width="35%" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0,0,0,0.1); min-width: 250px; max-width: 35%;" />
+    <img src="image3.jpg" alt="Preview 3" width="35%" style="border-radius: 15px; box-shadow: 0px 10px 30px rgba(0,0,0,0.1); min-width: 250px; max-width: 35%;" />
+  </div>
 
 </div>
 
